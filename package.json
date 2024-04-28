@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "c3": "^0.7.20",
     "lodash": "^4.17.21",
     "xhr2": "^0.2.1"
   }
